@@ -1,0 +1,11 @@
+#add-to-cart-img{
+    width: 20px;
+    height: 20px;
+}
+#updateForm{
+    width:60vw;
+    z-index: inherit;
+}
+#card{
+    /* margin-top: 30vh; */
+}

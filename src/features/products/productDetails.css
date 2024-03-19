@@ -1,0 +1,40 @@
+/* #detailsContainer{
+    width: 100vw;
+    height: 100vh;
+} */
+
+#content {
+    background-color: rgba(142, 135, 135, 0.242);
+    color: gold;
+    width: 84%;
+    margin: 5%;
+    height: 52%;
+}
+
+.details {
+    text-align: center;
+    padding: 20px;
+}
+
+#p {
+    padding: 50px;
+}
+ 
+.media {
+  /*   width:15vw;
+    margin-top: 4.5vh;
+    width: 10%;
+   
+} */ 
+width: 30%;
+}
+#q_v_button{
+    color:'#e91e63';
+    text-decoration: none;
+    
+}
+#back_to_shopping{
+width: 100%;
+text-align: center;
+margin-top: 10vh;
+}

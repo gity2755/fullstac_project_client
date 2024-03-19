@@ -1,0 +1,23 @@
+.oneInBasket{
+    border: 1px solid #f85b93;
+    margin: 30px;
+    padding: 30px;
+    list-style-type: none;
+   
+}
+#basket{
+
+}
+#header{
+    text-align: center;
+    color: #f85b93;
+}
+#orderButton{
+    text-decoration: none;
+}
+.btn{
+    width:20vw;
+}
+#buttonGroup{
+    margin-left: 30vw;
+}

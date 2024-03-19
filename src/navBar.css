@@ -1,0 +1,53 @@
+#logo {
+    width: 20vw;
+}
+
+#container {
+     margin: 0px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    /* background-color: white; */
+    height: 15vh;
+    z-index: 10;
+    box-shadow: 2in;
+    /* margin-bottom: 15vh; */
+   }
+
+#basketLogo{
+    margin-top: 4.5vh;
+    margin-left: 1vw;
+    margin-right: 0vw;
+}
+.link{
+    text-decoration: none;
+    margin: 0px;
+    color:#f50057;
+    gap: 0px;
+    width: 2vw;
+    padding: 0%;
+
+}
+#startShopping{
+margin-left: 0vw ;
+}
+#linkBasket{
+    margin-left: 0vw;
+    
+}
+#linkLogo{
+    margin-left: 20vw;
+    margin-right: 15vw;
+
+}
+#container{
+    width: 100vw;
+}
+#hello-to{
+    color:#f50057;
+    margin-right: 5vw;
+}
+#addItemButton{
+    margin-top: 1vh;
+}
