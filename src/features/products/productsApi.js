@@ -26,16 +26,3 @@ export const updateItem = (id, updatedItem, token) => {
     return axios.put(`${baseUrl}/${id}`, updatedItem, { headers: { 'xxx-token': token } });
 };
 
-
-// import axios from "axios"
-
-// //כאן יהיו כל הקריאות לשרת בקשר למוצרים
-// let baseUrl = "http://localhost:5000/api/item"
-
-// export const getProducts = (page, perPage, search) => {
-//     return axios.get(`${baseUrl}?page=${page}&perPage=${perPage}&search=${search}`)
-// }
-// // export const getProductById()
-// export const addProduct = (product) => {
-//     return axios.post(`${baseUrl}`, product)
-// }

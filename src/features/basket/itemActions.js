@@ -101,10 +101,7 @@ const ItemActions = ({ item }) => {
                <DeleteIcon color="secondary" />
           </Button>
         </ButtonGroup>
-        {/* <input type='button' name="increaseItem" value="+" onClick={increaseItemFromServer} />
-        <input type='button' name="decreaseItem" value="-" onClick={decreaseItemFromServer} />
-        <input type='button' id="deleteButton" name="deleteItem" value="delete item" onClick={(deleteFromServer)} /> */}
-    </div>
+         </div>
     </></ThemeProvider>);
 }
 
